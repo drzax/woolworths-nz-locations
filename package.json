@@ -1,7 +1,8 @@
 {
-	"dependencies": {
-		"cheerio": "latest",
-		"request": "latest",
-		"sqlite3": "latest"
-	}
+  "dependencies": {
+    "cheerio": "latest",
+    "entities": "^1.1.1",
+    "request": "latest",
+    "sqlite3": "latest"
+  }
 }
